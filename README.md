@@ -2,7 +2,7 @@
 
 **Utilizando inteligência artificial no dia-dia**
 
-**Chat GPT**br
+**Chat GPT**<br>
 **Gemini**
 **Copilot**
 **Prompt Enginnering**
