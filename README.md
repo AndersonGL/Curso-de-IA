@@ -1,8 +1,8 @@
 # Curso-de-IA
 
-Utilizando inteligência artificial no dia-dia
+**Utilizando inteligência artificial no dia-dia**
 
-**Chat GPT**
+**Chat GPT**br
 **Gemini**
 **Copilot**
 **Prompt Enginnering**
